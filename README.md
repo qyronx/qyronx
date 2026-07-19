@@ -1,16 +1,114 @@
-## Hi there 👋
+<h1 align="center">Qyronx</h1>
 
-<!--
-**qyronx/qyronx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Building privacy-focused software, AI tools, and modern web applications.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+Decentralization • AI • Full Stack
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# About
+
+I'm a full stack developer who enjoys creating fast, clean, and privacy-first applications.
+
+My interests include
+
+- Privacy Technologies
+- Nostr
+- Artificial Intelligence
+- Open Source
+- Android Development
+- Backend Systems
+- Web Applications
+
+---
+
+# Tech Stack
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,kotlin,html,css" />
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
+---
+
+# Featured Projects
+
+### Nostrity
+
+A decentralized anonymous social platform powered by the Nostr protocol.
+
+---
+
+### DASCODE
+
+Browser-based IDE with project management and terminal integration.
+
+### Encrypted File Sharing
+
+Privacy-focused encrypted file sharing platform.
+
+---
+
+### Rolling Eye Generator
+
+Image generation and processing tools using Mediapipe and Python.
+
+---
+
+# GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=qyronx&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qyronx&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=qyronx&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=qyronx&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+# Currently Working On
+
+- Privacy-first Applications
+- Decentralized Platforms
+- AI Utilities
+- Web Development
+- Android Apps
+
+---
+
+# Philosophy
+
+> Software should be fast, simple, open, and respect user privacy.
+
+---
+
+<p align="center">
+Thanks for visiting.
+</p>
