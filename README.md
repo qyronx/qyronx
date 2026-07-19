@@ -52,19 +52,19 @@ My interests include
 
 # Featured Projects
 
-### Nostrity
+### [Nostrity](https://nostrity.onrender.com)
 
 A decentralized anonymous social platform powered by the Nostr protocol.
 
 ---
 
-### Encrypted File Sharing
+### [File Blossom, Encrypted File Sharing](https://devareta2.onrender.com)
 
 Privacy-focused encrypted file sharing platform.
 
 ---
 
-### Rolling Eye Generator
+### [Rolling Eye Generator](https://devareta.onrender.com)
 
 Image generation and processing tools using Mediapipe and Python.
 
