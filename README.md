@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="assets/banner.svg" alt="QYRONX Banner" />
+</p>
 
 <p align="center">
 Building privacy-focused software, AI tools, and modern web applications.
