@@ -56,10 +56,6 @@ A decentralized anonymous social platform powered by the Nostr protocol.
 
 ---
 
-### DASCODE
-
-Browser-based IDE with project management and terminal integration.
-
 ### Encrypted File Sharing
 
 Privacy-focused encrypted file sharing platform.
@@ -69,15 +65,6 @@ Privacy-focused encrypted file sharing platform.
 ### Rolling Eye Generator
 
 Image generation and processing tools using Mediapipe and Python.
-
----
-
-# GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=qyronx&theme=tokyonight&show_icons=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qyronx&layout=compact&theme=tokyonight">
-</p>
 
 ---
 
