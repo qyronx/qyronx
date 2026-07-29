@@ -12,35 +12,6 @@ Decentralization • AI • Full Stack
 
 ---
 
-# About
-
-I'm a full stack developer who enjoys creating fast, clean, and privacy-first applications.
-
-My interests include
-
-- Privacy Technologies
-- Nostr
-- Artificial Intelligence
-- Open Source
-- Android Development
-- Backend Systems
-- Web Applications
-
----
-
-# Tech Stack
-
-## Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,kotlin,html,css" />
-</p>
-
-## Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
 
 ## Tools
 
@@ -58,8 +29,7 @@ A decentralized anonymous social platform powered by the Nostr protocol.
 
 ---
 
-### [File Blossom, Encrypted File Sharing](https://devareta2.onrender.com)
-
+### [File Blossom, Encrypted File Sharing](https://qyronx.github.io/fileblossom/)
 Privacy-focused encrypted file sharing platform.
 
 ---
