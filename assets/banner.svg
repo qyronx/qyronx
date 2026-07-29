@@ -39,27 +39,9 @@
     
     </rect>
     
-    <circle cx="170" cy="150" r="90"
-    fill="#00F5A0"
-    opacity="0.08">
     
-    <animate attributeName="r"
-    values="85;95;85"
-    dur="5s"
-    repeatCount="indefinite"/>
     
-    </circle>
     
-    <circle cx="1030" cy="150" r="120"
-    fill="#00D9FF"
-    opacity="0.08">
-    
-    <animate attributeName="r"
-    values="115;130;115"
-    dur="6s"
-    repeatCount="indefinite"/>
-    
-    </circle>
     
     <text
     x="600"
